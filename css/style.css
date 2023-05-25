@@ -1,0 +1,159 @@
+body{
+    background-color: lightgray;
+    
+}
+
+header{
+    background-color: #05baf5;
+    text-align: center;
+    justify-content: center;
+    padding: 25px 25px;
+    
+}
+
+.katik{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: whitesmoke;
+}
+
+.kalkulator{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+.card{
+    background-color: whitesmoke;
+    
+}
+
+.tittle{
+    height: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.sub-tittle{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 10px;
+    font-size: 20px;
+}
+
+.subtittle{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 10px;
+    font-size: 20px; 
+}
+
+.example-square {
+    text-align: center;
+    min-height: 40px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid blue;
+    background: blue;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px 15px;
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.panjang{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: 20px;
+}
+
+.description{
+    border: 1px solid blue;
+    
+}
+
+.judul{
+    background: blue;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+    display: block;
+    margin: auto;
+    padding: 10px 10px;
+}
+
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+button.btn-hitung {
+    background: blue;
+    display: flex;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: center;
+    color: whitesmoke;
+    margin: auto;
+}
+
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+button.btn-reset {
+    background: #f98e03;
+    color: whitesmoke;
+    padding: 5px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    float: right;
+}
+
+.description-two{
+   border: 1px solid blue;
+    
+    background-color: whitesmoke;
+   
+}
+
+.judul-two{
+    background: blue;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+.luas{
+    text-align: center;
+    
+}
+
+.keliling{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    cursor: pointer;
+}
